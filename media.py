@@ -1,4 +1,7 @@
 # Author : Sheena Elveus
+'''
+    This file represents the Movie object.
+'''
 
 import webbrowser
 

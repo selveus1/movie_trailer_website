@@ -1,5 +1,4 @@
 # Author : Sheena Elveus
-
 '''
     This file takes in the list of favorite movies
     and generates the HTML to display them.

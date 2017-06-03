@@ -4,6 +4,7 @@
     sends that list to fresh_tomatoes.py to be
     display in the generated HTML file.
 '''
+
 import media
 import fresh_tomatoes
 import api_key
